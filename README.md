@@ -31,19 +31,19 @@
 - дизайн, верстка, посадка на Wordpress лендинга юридической конференции http://younglawyers74.ru
 - калькулятор на JS http://mglushakova.github.io/calculator-JS/
 
-## Личные качества:
+### Личные качества:
 
 - ответственность;
 - высокая обучаемость;
 - пунктуальность.
 
-## Сертификаты:
+### Сертификаты:
 
 - [HTML и CSS, уровень 2](https://assets.htmlacademy.ru/certificates/intensive/63/110507.pdf);
 - [HTML и CSS, уровень 1](https://assets.htmlacademy.ru/certificates/intensive/45/110507.pdf);
 - [Курс JavaScript/DOM/интерфейсы](http://learn.javascript.ru/courses/js-20161010-2000/marina9/certificate.jpg).
 
-## Образование:
+### Образование:
 
 - 2013-2016 гг — ЧелГУ, институт информационных технологий, бакалавр информатики и вычислительной техники;
 - 2007-2012 гг — ЮУрГУ, торгово-экономический факультет, специалист по рекламе.
